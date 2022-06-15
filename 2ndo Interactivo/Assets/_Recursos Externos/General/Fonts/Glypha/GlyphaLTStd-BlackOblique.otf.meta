@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 6d52f9703ac58c140ab5a6c0547f1c07
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Glypha LT Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3c4cb2c479b64f74ca790246b181f2ef, type: 3}
+  - {fileID: 12800000, guid: b62d7a774a2203f44ad30eb49cd0eb18, type: 3}
+  - {fileID: 12800000, guid: 28f8d70f588bdf24d9726db6684bbc90, type: 3}
+  - {fileID: 12800000, guid: 12d5d16bcf1bcc94198c8d5081fdf03d, type: 3}
+  - {fileID: 12800000, guid: 179614a242415d24398120ff8ac3e314, type: 3}
+  - {fileID: 12800000, guid: 40cf051c332430a46b80c5a5c9aa7e4f, type: 3}
+  - {fileID: 12800000, guid: 092ef3ec4dfe07f4290bc1ed38604baf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
